@@ -11,7 +11,11 @@ Tải được tất cả các trang này và đuôi:
 3GP 7Z AAC ACE AIF APK ARJ ASF AVI BIN BZ2 EXE GZ GZIP IMG ISO LZH M4A M4V MKV MOV MP3 MP4 MPA MPE MPEG MPG MSI MSU OGG OGV PDF PLJ PPS PPT QT R0* R1* RA RAR RM RMVB SEA SIT SITX TAR TIF TIFF WAV WMA WMV Z ZIP
 Do mới phát chuyển chưa Test được hết anh em nào dùng báp lỗi gì Comments lại mình Fix lại nhé
 <img width="1048" height="577" alt="Ảnh chụp màn hình 2026-05-23 062026" src="https://github.com/user-attachments/assets/966ae7f0-bfa3-4681-ab02-ad5186545423" /><br>
-| Feature | Support |
+| Feature | Support | | Feature | Support |
+|---|---|
+| TikTok | ✓ |
+| Facebook | ✓ |
+| YouTube | ✓ |
 |---|---|
 | TikTok | ✓ |
 | Facebook | ✓ |
