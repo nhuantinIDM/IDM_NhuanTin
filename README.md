@@ -43,7 +43,6 @@ Do mới phát chuyển chưa Test được hết anh em nào dùng báp lỗi g
 4. Điều hướng đến vị trí trên hệ thống của bạn nơi thư mục tiện ích mở rộng đã được giải nén được đặt và mở nó ra.
 <img width="1200" height="672" alt="extension-directory-1200x672" src="https://github.com/user-attachments/assets/7cd32675-4f4c-46d5-8353-efa234ff1dda" /><br>
 
-## Lưu ý: <br>Hãy chọn thư mục chứa manifest tệp. Trong ảnh chụp màn hình, odoo_aliexpress_chrome_extensionthư mục được chọn vì nó chứa tệp manifest.json.<br>
 5. Giờ bạn đã thấy tiện ích mở rộng đã được cài đặt trong Chrome.
 <img width="936" height="521" alt="Ảnh chụp màn hình 2026-05-23 084101" src="https://github.com/user-attachments/assets/09411d67-ce26-4eea-afd9-2b92a8a583bc" /><br>
 
