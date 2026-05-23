@@ -1,6 +1,6 @@
 # IDM_Nhuận Tín Free 100%
 Ứng dụng này do mình và AI tạo ra cho vui thôi anh em nào thích thì dùng không thích đùng ném đá nhé, 
-mình không có thượng mại bán buôn gì hết. ai dùng thì tải file 7z về giải nèn ra có thư mục extension tải lên trình duyệt của mình nhé<br>
+mình không có thượng mại bán buôn gì hết. ai dùng thì tải file 7z về giải nén ra có thư mục extension tải lên trình duyệt của mình nhé<br>
 Ứng dụng hổ trợ tải các trang dưới:
 | Feature | Support |
 |---|---|
