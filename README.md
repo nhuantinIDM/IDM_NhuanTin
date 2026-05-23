@@ -31,4 +31,4 @@ Tải được tất cả các trang này và đuôi:
 Do mới phát chuyển chưa Test được hết anh em nào dùng báp lỗi gì Comments lại mình Fix lại nhé
 <img width="1048" height="577" alt="Ảnh chụp màn hình 2026-05-23 062026" src="https://github.com/user-attachments/assets/966ae7f0-bfa3-4681-ab02-ad5186545423" /><br>
 
-| imgur.com | ✓ |
+
