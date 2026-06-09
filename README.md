@@ -30,6 +30,8 @@ Tải được tất cả các đuôi:
 3GP 7Z AAC ACE AIF APK ARJ ASF AVI BIN BZ2 EXE GZ GZIP IMG ISO LZH M4A M4V MKV MOV MP3 MP4 MPA MPE MPEG MPG MSI MSU OGG OGV PDF PLJ PPS PPT QT R0* R1* RA RAR RM RMVB SEA SIT SITX TAR TIF TIFF WAV WMA WMV Z ZIP
 Do mới phát chuyển chưa Test được hết anh em nào dùng báp lỗi gì Comments lại mình Fix lại nhé
 <img width="1048" height="577" alt="Ảnh chụp màn hình 2026-05-23 062026" src="https://github.com/user-attachments/assets/966ae7f0-bfa3-4681-ab02-ad5186545423" /><br>
+<img width="724" height="563" alt="Ảnh chụp màn hình (1)" src="https://github.com/user-attachments/assets/00596ba3-72b5-4196-89d1-7561f9680d2b" /><br>
+
 
 ## Hướng dẫn cài đặt tiện ích mở rộng chưa đóng gói trong Chrome/Edge <br>
 1. Mở Cài đặt Chrome từ ba dấu chấm ở góc trên bên phải và chọn Quản lý tiện ích mở rộng , hoặc nhập chrome://extensions/vào thanh địa chỉ.<br>
