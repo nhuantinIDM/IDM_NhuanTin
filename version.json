@@ -1,12 +1,10 @@
 {
-  "version": "7.5.0",
-  "download": "https://github.com/nhuantinIDM/IDM_NhuanTin/releases/download/v7.5.0/IDM_NhuanTin.exe",
+  "version": "7.5.1",
+  "download": "https://github.com/nhuantinIDM/IDM_NhuanTin/releases/download/v7.5.1/IDM_NhuanTin.exe",
   "force_update": false,
   "release_date": "23-05-2026",
   "changelog": [
-    "🔥 Fix TikTok download",
-    "⚡ Improve aria2c speed",
-    "🛠 Fix Windows 11 crash",
-    "🚀 Add auto update"
+    "🔥 Add dailymotion.com",
+    "🛠 Fix extension"
   ]
 }
