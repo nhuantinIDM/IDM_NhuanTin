@@ -1,6 +1,7 @@
-# IDM_Nhuận Tín Free 100%
+# 4K-Dowload Free 100%
 Ứng dụng này do mình và AI tạo ra cho vui thôi anh em nào thích thì dùng không thích đùng ném đá nhé, 
-mình không có thượng mại bán buôn gì hết. ai dùng thì tải file 7z về giải nén ra chạy setup.exe cài các tác vụ PyQt6 tải extension lên trình duyệt của mình sau đó chạy IDM_NhuanTin.exe tận hưởng thôi<br>
+mình không có thượng mại bán buôn gì hết. ai dùng thì tải file 7z về giải nén ra lệnh cài yt-dlp kèm sẵn curl_cffi:<br>
+pip3 install --user --break-system-packages "yt-dlp[default]" <br>tải extension lên trình duyệt của mình sau đó chạy IDM_NhuanTin.exe tận hưởng thôi<br>
 Ứng dụng hổ trợ tải các trang dưới:
 | Feature | Support |
 |---|---|
@@ -34,6 +35,7 @@ Do mới phát chuyển chưa Test được hết anh em nào dùng báp lỗi g
 
 
 ## Hướng dẫn cài đặt tiện ích mở rộng chưa đóng gói trong Chrome/Edge <br>
+Firefox cài bằng link này <br> https://addons.mozilla.org/vi/firefox/addon/4k-downloader-nhu%E1%BA%ADnt%C3%ADn/<br>
 1. Mở Cài đặt Chrome từ ba dấu chấm ở góc trên bên phải và chọn Quản lý tiện ích mở rộng , hoặc nhập chrome://extensions/vào thanh địa chỉ.<br>
 <img width="1200" height="616" alt="manage-extension-1200x616" src="https://github.com/user-attachments/assets/6c162bb2-e7b1-449c-89c4-79b8594dc5e1" /><br>
 
